@@ -47,16 +47,6 @@ pip install -r requirements.txt
    python run_model.py --input data/test_mcq.json
    ```
 
-## Hugging Face Deployment
-
-The project is deployed on Hugging Face Spaces. Check out the deployment here:
-[Hugging Face Spaces - LLM Science Exam](https://huggingface.co/spaces/v1vu/image_captioning/tree/main)
-
-## Running Notebooks on Kaggle
-
-You can also run the notebooks and experiment with the model on Kaggle. Visit my Kaggle profile here:
-[Kaggle Profile - heyviv](https://www.kaggle.com/heyviv)
-
 ## Future Work
 
 - **Model Improvements**: Investigate additional model architectures like GPT-3 or PaLM.
